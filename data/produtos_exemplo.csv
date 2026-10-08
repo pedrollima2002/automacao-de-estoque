@@ -1,0 +1,6 @@
+codigo,marca,tipo,categoria,preco_unitario,custo,obs
+DEMO001,Marca Demo,Mouse,1,59.90,32.50,Dado ficticio
+DEMO002,Marca Demo,Teclado,1,149.90,89.00,
+DEMO003,Exemplo Tech,Monitor,2,899.00,620.00,Conferir embalagem
+DEMO004,Exemplo Tech,Headset,2,219.90,130.00,
+DEMO005,Loja Ficticia,Webcam,3,179.50,95.75,Demonstracao

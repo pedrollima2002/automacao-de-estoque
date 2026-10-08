@@ -1,3 +1,14 @@
 __pycache__/
+*.py[cod]
+.venv/
 .env
+.env.*
+!.env.example
+config.local.json
 venv/
+logs/
+estado/
+.pytest_cache/
+.vscode/
+.DS_Store
+Thumbs.db

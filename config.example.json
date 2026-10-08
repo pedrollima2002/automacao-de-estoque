@@ -1,0 +1,14 @@
+{
+  "url": "https://dlp.hashtagtreinamentos.com/python/intensivao/login",
+  "timings": {
+    "browser_wait_seconds": 5,
+    "login_wait_seconds": 4,
+    "submission_wait_seconds": 1,
+    "typing_interval_seconds": 0.03
+  },
+  "scroll_amount": 5000,
+  "positions": {
+    "login_email": [918, 503],
+    "product_code": [932, 360]
+  }
+}
